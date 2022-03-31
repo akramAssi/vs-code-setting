@@ -1,0 +1,4 @@
+disabled: []
+enabled:
+  - id: cyberbiont.vscode-profiles
+    uuid: 69640ebb-50ef-4117-8ffa-788ae5008d01

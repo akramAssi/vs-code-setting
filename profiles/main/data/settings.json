@@ -1,0 +1,84 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.languageServer": "Pylance",
+    "editor.fontSize": 14,
+    "editor.fontFamily": "'Cascadia Code'",
+    "files.autoSave": "onFocusChange",
+    "editor.fontLigatures": true,
+    "[python]": {
+
+        "editor.wordBasedSuggestions": false
+    },
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "AREPL.pythonOptions": [
+
+        "-u"
+    ],
+    "AREPL.pythonPath": "python3",
+    "AREPL.keepPreviousVars": true,
+    "AREPL.restartDelay": 30,
+    "AREPL.delay": 30,
+    "C_Cpp.updateChannel": "Insiders",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "jupyter.askForKernelRestart": false,
+    "tabnine.experimentalAutoImports": true,
+    "workbench.sideBar.location": "right",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "window.title": "${activeEditorShort}${separator}${rootName}${rootPath}",
+    "editor.rulers": [
+       
+    
+    130
+
+    ],
+    "dart.debugExternalLibraries": true,
+    "dart.debugSdkLibraries": false,
+    "files.associations": {
+        "*.ipynb": "python"
+    },
+    "dart.previewLsp": true,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "workbench.colorTheme": "Material Theme",
+    "redhat.telemetry.enabled": true,
+    "git.enableSmartCommit": true,
+    "dart.debugExternalPackageLibraries": false,
+    "python.pythonPath": "/usr/bin/python3",
+    "editor.accessibilitySupport": "on",
+    "liveshare.allowGuestDebugControl": true,
+    "liveshare.allowGuestTaskControl": true,
+    "liveshare.alwaysFollowHost": true,
+    "dart.previewFlutterUiGuides": true,
+    "git.autofetch": true,
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.fontFamily": "MesloLGS NF ",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "python.defaultInterpreterPath": "/usr/bin/python3",
+    "sync.autoDownload": true,
+    "sync.autoUpload": true,
+    "sync.forceDownload": true
+}
